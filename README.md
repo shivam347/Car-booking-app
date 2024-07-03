@@ -1,6 +1,10 @@
 car booking app
 
 This app is built on Qt creator.
+To run this open car_book.pro file where it contains three files for each section or I say slides
+HEADER FILE
+CPP FILE
+UI FILE
 
 ------------project details----------- 
 
