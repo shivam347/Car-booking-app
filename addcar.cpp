@@ -11,7 +11,7 @@ addcar::addcar(QWidget *parent)
     , ui(new Ui::addcar)
 {
     ui->setupUi(this);
-    QPixmap picture("C:/Users/shiva/OneDrive/Desktop/projects Qt5/photos/photo");
+    QPixmap picture("C:/Users/shiva/OneDrive/Desktop/projects Qt5/car_booking/photos/photo");
     ui->pnglabel->setPixmap(picture);
 
     ui->carTypeListWidget->addItem("Mini");

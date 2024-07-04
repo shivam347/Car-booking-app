@@ -13,7 +13,7 @@ bookcar::bookcar(QWidget *parent)
     , ui(new Ui::bookcar)
 {
     ui->setupUi(this);
-    QPixmap picture2("C:/Users/shiva/OneDrive/Desktop/projects Qt5/photos/pexels-pixabay-33488");
+    QPixmap picture2("C:/Users/shiva/OneDrive/Desktop/projects Qt5/car_booking/photos/bookcar");
     ui->bookCarPicLabel->setPixmap(picture2);
 
 

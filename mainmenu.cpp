@@ -7,7 +7,7 @@ mainmenu::mainmenu(QWidget *parent)
     , ui(new Ui::mainmenu)
 {
     ui->setupUi(this);
-    QPixmap six("C:/Users/shiva/OneDrive/Desktop/projects Qt5/photos/Qt photo");
+    QPixmap six("C:/Users/shiva/OneDrive/Desktop/projects Qt5/car_booking/photos/Qt photo");
     ui->pic_label->setPixmap(six);
 
 }

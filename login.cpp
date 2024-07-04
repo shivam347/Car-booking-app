@@ -8,7 +8,7 @@ login::login(QWidget *parent)
     , ui(new Ui::login)
 {
     ui->setupUi(this);
-    QPixmap pix("C:/Users/shiva/OneDrive/Desktop/projects Qt5/photos/car.png");
+    QPixmap pix("C:/Users/shiva/OneDrive/Desktop/projects Qt5/car_booking/photos/car.png");
     ui->pic_label->setPixmap(pix);
 
 }
