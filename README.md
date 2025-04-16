@@ -33,16 +33,23 @@ There are web pages in the application:
 ---
 
 ### 2. 🏠 Main Menu
+![Screenshot 2025-04-16 153105](https://github.com/user-attachments/assets/705130fd-8b36-4be9-b97f-d3bee73818b0)
 
 Provides two core options:
 
 ####  Add Car Section
+
+![Screenshot 2025-04-16 153331](https://github.com/user-attachments/assets/fc76d9b2-45bc-47a0-84a0-0e0647479a55)
+
 
 - Add car details:
   - `car number`, `brand`, `type`, and `fare`.
 - Data is saved to: `CarData.txt`.
 
 #### 🚘 Book Car Section
+
+![Screenshot 2025-04-16 153608](https://github.com/user-attachments/assets/b4120da1-becd-47ff-9f15-8a6650d96429)
+
 
 - Allows users to book a car from the existing car list.
 - Requires user details and the car they wish to book.
